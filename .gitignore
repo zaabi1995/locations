@@ -1,4 +1,26 @@
+# macOS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+__MACOSX/
+
+# Windows
 Thumbs.db
-__MACOSX
-.idea
+ehthumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node (if scripts are ever added)
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.local
